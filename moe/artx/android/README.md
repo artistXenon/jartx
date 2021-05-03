@@ -1,4 +1,4 @@
-# android-apk-installer
+# android apk installer
 Single java file library that helps install apk files through ''InputStream''.
 
  *  Require android 5.0 and up. (Api level 21)
