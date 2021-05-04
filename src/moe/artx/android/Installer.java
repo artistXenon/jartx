@@ -1,4 +1,4 @@
-package moe.artx.test.apk;
+package moe.artx.android;
 
 import android.app.PendingIntent;
 import android.content.Context;
